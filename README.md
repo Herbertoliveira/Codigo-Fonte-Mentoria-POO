@@ -1,18 +1,17 @@
-## Getting Started
+<h1>Dominando Programação Orientada a Objetos com Java - Potência Tech by iFood
+</h1>
+<p>Repositório do código-base da mentoria <strong>Dominando Programação Orientada a Objetos com Java - Potência Tech by iFood</strong> oferecida pela <a href="https://web.dio.me/home"> Dio.me </a> em parceria com a <a href="https://potenciatech.com.br/">Potência Tech</a>.</p>
+<h2 align="center"><a href="https://docs.google.com/presentation/d/1IWk0-EywsPULXgqi_DCop4iq49EK0eXd/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true" > Slides </a></h2>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<h3>Features</h3>
+<p align="center">
+<img src="https://i.imgur.com/maiic26.png" alt="Cadastro de Restaurante">
+CRUD para cadastro de um Restaurante
+</p>
 
-## Folder Structure
+- [x] Cadastrar restaurantes no "banco de dados"<br>
+- [x] Visualizar todos os restaurantes do "banco de dados"<br>
+- [x] Visualizar um restaurante específico já salvo no "banco de dados"<br>
+- [x] Atualizar um restaurante já salvo no "banco de dados"<br>
+- [x] Deletar um restaurante já salvo no "banco de dados"<br>
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
